@@ -1,4 +1,4 @@
-# PRODIGY_CS_03 - Password Analyzer
+# Password Analyzer
 This Python project evaluates the strength of passwords based on common security criteria.
 
 ## How It Works
